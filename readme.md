@@ -1,5 +1,5 @@
 ## Projet
-Projet de fouille de données.
+Projet de masse de données et fouille de données.
 
 ### Description
 Projet avec une courte pipeline BI :
